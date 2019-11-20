@@ -1,23 +1,20 @@
-Դ�밲װ˵����
+源码安装说明：
 
-1������վ�ļ��ϴ�����վĿ¼
+1、把网站文件上传到网站目录
 
-2������ http://������ַ/diguo    ��¼�˺�admin  ����123456 
+2、访问 http://您的网址/diguo    登录账号admin  密码123456 
 
-3���޸ĵ۹���������̨�����ݿ����ã����ַ��������ֹdiguoĿ¼����д����޷��޸ģ����޸�diguo�ļ���Ȩ��Ϊ��д��
+3、修改帝国备份王后台的数据库配置，部分服务器会禁止diguo目录不可写造成无法修改，请修改diguo文件夹权限为可写。
 
-4���ָ����ݡ�
+4、恢复数据。
 
-5���������ļ�
-Data/config.php �����԰����ݿ������ļ���
-��������ݿ����ϸĳ�������ݿ���Ϣ��
-6����װ��ϣ���ظ���鿴������̨�����룩
+5、打开以下文件
+Data/config.php （电脑版数据库配置文件）
+将相关数据库资料改成你的数据库信息。
+6、安装完毕（请回复后查看管理后台和密码）
 
-PC�� http://��������/admin    ��½�˺ź�����ֱ���admin��admin888
+PC端 http://您的域名/admin    登陆账号和密码分别是admin和admin888
 
-�ֻ��� http://��������/mobile/admin    ��½�˺ź�����ֱ���admin��admin888
+手机端 http://您的域名/mobile/admin    登陆账号和密码分别是admin和admin888
 
-Ϊȷ����ȫ����װ��ɺ���ɾ�� diguo ����ļ��С�
-
-
-www.zzfriend.com(��������) �ṩ
+为确保安全，安装完成后请删除 diguo 这个文件夹。
